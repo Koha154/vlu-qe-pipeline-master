@@ -44,3 +44,4 @@ function login(username, password) {
 }
 
 module.exports = { login, VALID_USERS, LOCKED_ACCOUNTS };
+// updated login logic
