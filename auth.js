@@ -3,7 +3,7 @@
 
 // Danh sách tài khoản hợp lệ (username -> password)
 const VALID_USERS = {
-  admin: '123',
+  admin: '9999',
 };
 
 // Danh sách tài khoản bị khóa
